@@ -29,3 +29,16 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 ### Video Test
 
 <iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+
+#ようこそ
+このサイトは、ジキルの包括的なガイドとなることを目的としています。 Webサイトの起動と実行、コンテンツの作成と管理、サイトの動作と外観のカスタマイズ、さまざまな環境への展開、Jekyllの今後の開発への参加などのトピックを扱います。
+
+それでは、ジキルとは正確には何ですか？パーマリンク
+Jekyllは、ブログをサポートするシンプルで静的なサイトビルダーです。さまざまな形式の生のテキストファイルを含むテンプレートディレクトリを取得し、コンバーター（Markdownなど）とリキッドレンダラーを介して実行し、お気に入りのWebに適合する完全ですぐに投稿できる静的Webサイトを生成します。サーバーは一緒にサービスを提供します。 JekyllはたまたまGitHubページの背後にあるエンジンです。つまり、Jekyllを使用して、GitHubのサーバーからプロジェクトのページ、ブログ、またはWebサイトを無料でホストできます。
+
+パーマリンクの便利なヒント
+このガイドには、ジキルをより簡単に、より楽しく、より危険にする、小さくて便利な情報がたくさんあります。これは注目に値します。
+
+ビデオテスト
+<iframe type = "text / html" width = "100％" height = "385" src = "http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder = "0"> </ iframe>
+©2019 GitHub、Inc.
