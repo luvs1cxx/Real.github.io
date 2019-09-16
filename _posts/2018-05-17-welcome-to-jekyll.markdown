@@ -26,3 +26,17 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+#この記事は_postsディレクトリにあります。 サイトの編集と再構築を続けて、変更を確認します。 さまざまな方法でサイトを再構築できますが、最も一般的な方法はjekyll serveを実行することです。これにより、Webサーバーが起動し、ファイルが更新されると自動的にサイトが再生成されます。
+
+新しい投稿を追加するには、ファイルを_posts準拠のディレクトリYYYY-MM-DD-name-of-post.extに追加し、必要な前提条件を含めるだけです。 この記事のソースを調べて、その仕組みを確認してください。
+
+Jekyllは、コードスニペットも強力にサポートしています。
+
+Def print_hi（name）
+   「こんにちは、＃{名前}」
+終了
+Print_hi（ 'Tom'）
+＃=>「Hi、Tom」をSTDOUTに出力します。
+Jekyllを最大限に活用する方法の詳細については、Jekyllのドキュメントを参照してください。 JekyllのGitHubリポジトリにすべてのエラー/機能リクエストをアーカイブします。 質問がある場合は、ジキルトークで質問できます。
